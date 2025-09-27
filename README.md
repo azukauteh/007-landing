@@ -102,11 +102,3 @@ Inspired by CodeRabbit & ALX AI for Developers
 Powered by contributors and open source spirit ❤️
 
 ---
-
-Let me know if you want to add:
-- GitHub Actions badge
-- QR module preview
-- `CONTRIBUTING.md` scaffold
-- Deployment instructions for Vercel or Netlify
-
-We’re building something magnetic. Ready to onboard the world.
