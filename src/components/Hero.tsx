@@ -3,6 +3,7 @@
 // Renders the top section of the landing page with logo, headline, and tagline.
 // Sets the visual tone and introduces the 007 agent.
 
+import Image from 'next/image'
 export default function Hero() {
   return (
     <header
@@ -29,12 +30,10 @@ export default function Hero() {
 
       {/* Main headline */}
       <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>
-        007: The Modular Code Review Agent
       </h1>
 
       {/* Supporting tagline */}
       <p style={{ fontSize: '1.2rem', color: '#ccc' }}>
-        Audit-grade automation. Contributor-friendly clarity. Built for scale.
       </p>
     </header>
   )

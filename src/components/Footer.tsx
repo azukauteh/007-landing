@@ -24,44 +24,13 @@ export default function Footer() {
     >
       {/* Inspirational credits */}
       <p style={{ marginBottom: '0.5rem' }}>
-        Inspired by CodeRabbit & African Leadership AI Program
+        Inspired by CodeRabbit & Alx AI for developers
       </p>
 
       {/* Creator identity */}
       <p style={{ marginBottom: '0.5rem' }}>
         Made with ❤️ by <strong>Uteh Azuka</strong>
       </p>
-
-      {/* Social icons */}
-      <div style={{ margin: '1rem 0', display: 'flex', justifyContent: 'center', gap: '1.5rem' }}>
-        <a
-          href="https://github.com/azukauteh/007"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="GitHub"
-          style={{ color: '#00bcd4', fontSize: '1.5rem' }}
-        >
-          🐙
-        </a>
-        <a
-          href="https://twitter.com/azukauteh"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Twitter"
-          style={{ color: '#1DA1F2', fontSize: '1.5rem' }}
-        >
-          🐦
-        </a>
-        <a
-          href="https://linkedin.com/in/azukauteh"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="LinkedIn"
-          style={{ color: '#0A66C2', fontSize: '1.5rem' }}
-        >
-          💼
-        </a>
-      </div>
 
       {/* Legal links */}
       <p style={{ marginTop: '1rem' }}>

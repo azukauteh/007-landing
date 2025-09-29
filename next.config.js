@@ -1,7 +1,12 @@
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   output: 'export',
   trailingSlash: true,
   images: {
-  domains: ['i.imgur.com'],
+    unoptimized: true,
+    domains: ['i.imgur.com'],
   },
 }
+
+module.exports = nextConfig
+
