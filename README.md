@@ -1,5 +1,4 @@
 
-
 ---
 
 ## 🕵️‍♀️ 007 Code Review Agent — Landing Page
@@ -61,32 +60,7 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000) to preview the page.
 
----
 
-## 📁 Project Structure
-
-```
-007-landing/
-├── components/       # Modular UI blocks (Hero, Features, Footer)
-├── pages/            # Next.js routing
-├── public/           # Static assets (logo, preview images)
-├── styles/           # Global and scoped CSS
-├── .gitignore        # Clean repo rules
-├── README.md         # This file
-```
-
----
-
-## 👥 Contributing
-
-We welcome contributors!  
-To add a feature, fix a bug, or improve onboarding:
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Submit a pull request with clear description and screenshots
-
----
 
 ## 📄 License & Privacy
 
