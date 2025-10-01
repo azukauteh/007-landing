@@ -35,7 +35,7 @@ The page introduces its features, onboarding flow, and contributor-friendly desi
 
 ## 🖼️ Visual Preview
 
-<img src="https://i.imgur.com/qFDp4fd.png" alt="Landing Preview" width="700"/>
+<img src="https://i.imgur.com/r8ID0B4.png" alt="Landing Preview" width="700"/>
 
 ---
 
@@ -43,22 +43,14 @@ The page introduces its features, onboarding flow, and contributor-friendly desi
 
 Here’s a sneak peek at the 007 AI reviewer in action:
 
-<img src="https://i.imgur.com/gk98LTj.png" alt="007 Agent Preview" width="700"/>
+<img src="https://i.imgur.com/7lKImHk.png" alt="007 Agent Preview" width="700"/>
 
 ---
 
-## 🛠️ Getting Started
 
-To run the landing page locally:
 
-```bash
-git clone https://github.com/azukauteh/007
-cd 007
-npm install
-npm run dev
-```
 
-Visit [http://localhost:3000](http://localhost:3000) to preview the page.
+🔗 Visit [007 Landing Page](https://007-landing.vercel.app) to preview the site.
 
 
 

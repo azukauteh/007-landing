@@ -52,7 +52,7 @@ Whether you're fixing a typo or refactoring a module — you're never flying bli
           Here’s how 007 reviews your code  one file at a time.
         </p>
         <img
-          src="https://i.imgur.com/gk98LTj.png"
+          src="https://i.imgur.com/7lKImHk.png"
           alt="007 Agent Preview"
           style={{
             maxWidth: '100%',

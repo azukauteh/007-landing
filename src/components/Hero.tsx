@@ -10,7 +10,7 @@ export default function Hero() {
       style={{
         textAlign: 'center',
         padding: '4rem 2rem',
-        backgroundImage: 'url("https://i.imgur.com/qFDp4fd.png")', // Imgur-hosted background
+        backgroundImage: 'url("https://i.imgur.com/r8ID0B4.png")', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
