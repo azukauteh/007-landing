@@ -33,13 +33,14 @@ The page introduces its features, onboarding flow, and contributor-friendly desi
 
 ---
 
-## 🖼️ Visual Preview
+
+## 🧠 Agent Preview
 
 <img src="https://i.imgur.com/r8ID0B4.png" alt="Landing Preview" width="700"/>
 
 ---
 
-## 🧠 Agent Preview
+
 
 Here’s a sneak peek at the 007 AI reviewer in action:
 
